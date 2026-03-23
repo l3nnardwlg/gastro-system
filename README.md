@@ -9,7 +9,7 @@ A modular restaurant and hospitality management system built with Node.js/Expres
 | Layer     | Technology                                      |
 |-----------|-------------------------------------------------|
 | Backend   | Node.js · Express · TypeScript · ts-node-dev    |
-| Frontend  | Next.js 14 · React 18 · TypeScript              |
+| Frontend  | Next.js 15 · React 18 · TypeScript              |
 | Monorepo  | npm Workspaces                                  |
 
 ---
